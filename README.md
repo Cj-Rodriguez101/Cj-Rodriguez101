@@ -2,7 +2,7 @@
 My Name is Joseph, I am a Mobile Developer.
 
 
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cj-Rodriguez101&show_icons=true&theme=radical)
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cj-Rodriguez101&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cj-Rodriguez101)](https://github.com/Cj-Rodriguez101/github-readme-stats)
 
