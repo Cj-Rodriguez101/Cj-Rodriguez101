@@ -2,11 +2,6 @@
 My Name is Joseph, I am a Mobile Developer.
 
 
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cj-Rodriguez101&show_icons=true&theme=radical&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cj-Rodriguez101)](https://github.com/Cj-Rodriguez101/github-readme-stats)
-
-
 <!--
 *Cj-Rodriguez101/Cj-Rodriguez101* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
